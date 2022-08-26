@@ -25,6 +25,6 @@ I am a self-taught English speaker with a passion for learning other languages. 
 **Pronoums:** He/him
 
 #### Other ways to reach me 
-**Discord:**carrara#7153 
+**Discord:** carrara#7153 
 
 ---
