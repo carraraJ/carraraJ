@@ -20,6 +20,8 @@ I am a self-taught English speaker with a passion for learning other languages. 
 ### More Info
 **I'm currently learning:**  Python and Javascript
 
+**Looking for help with:** PHP 😅
+
 **Pronoums:** He/him
 
 #### Other ways to reach me 
