@@ -13,18 +13,14 @@
 
 ***Who am i?*** 
 
-I am a Systems Analysis and Development Student from Brazil focused on learning a diverse range of programming languages, frameworks, etc. My current focus is improving on Python and learning C as it is required in my University.
-
-I am a self-taught English speaker with a passion for learning other languages. I am in my journey to learn Korean via immersion and also interested in other romance languages such as Italian. 
+I am a Systems Analysis and Development Student from Brazil focused on learning a diverse range of programming languages, frameworks, etc. My current focus is learning JavaScript and improving my HTML/CSS.
 
 ### More Info
-**I'm currently learning:**  C
-
-**Looking for help with:** C 😅
+**I'm currently learning:**  JavaScript
 
 **Pronoums:** He/him
 
 #### Other ways to reach me 
-**Discord:** carrara#7153 
+**Discord:** hoao#8069
 
 ---
