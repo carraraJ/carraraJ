@@ -18,6 +18,8 @@ I am a Systems Analysis and Development Student from Brazil focused on learning 
 ### More Info
 **I'm currently learning:**  JavaScript
 
+**Skills:** Python *(Intermediate)*, Lua *(Beginner-Proficient)*, HTML/CSS *(Intermediate)*
+
 **Pronoums:** He/him
 
 #### Other ways to reach me 
