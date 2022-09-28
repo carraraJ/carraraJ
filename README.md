@@ -1,14 +1,5 @@
 ## Hello! I am Joao Carrara
 
-
-<a href="https://www.linkedin.com/in/queirozcarrara/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Hoao1/Hoao/master/assets/linkedin.svg" width="30px"  alt="João Carrara | LinkedIn" align="left" />
-</a>
-
-</a>
-<br />
-<br />
-
 ---
 
 ***Who am i?*** 
@@ -21,7 +12,14 @@ I am a Systems Analysis and Development Student from Brazil focused on learning 
 **Pronoums:** He/him
 
 #### Other ways to reach me 
-**Discord:** hoao#8069
+
+<a href="https://www.linkedin.com/in/queirozcarrara/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="João Carrara | LinkedIn" align="left" />
+</a> <a href="https://discord.com/users/260403711434555393/" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "  alt="Contact me on Discord!" align="left" />
+</a>
+
+<br/>
 
 ---
 
