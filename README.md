@@ -1,4 +1,4 @@
-## Joao Carrara - Hoao
+## Hello! I am Joao Carrara
 
 
 <a href="https://www.linkedin.com/in/queirozcarrara/" target="_blank">
