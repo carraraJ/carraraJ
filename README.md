@@ -30,6 +30,3 @@ I am a Systems Analysis and Development Student from Brazil focused on learning 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoao1&theme=github_dark&hide_border&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoao1&layout=default&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
