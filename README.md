@@ -2,11 +2,10 @@
 
 ---
 
-***Who am i?*** 
+***Who am i?***   <img align="right" alt="Coding" width="400" src="assets/dog.gif"  height="299" width="302" style="border-radius:100px">
 
 I am a Systems Analysis and Development Student from Brazil focused on learning a diverse range of programming languages, frameworks, etc. My current focus is learning JavaScript and improving my HTML/CSS.
 
-<img align="right" alt="Coding" width="400" src="assets/dog.gif"  height="299" width="302" style="border-radius:100px">
 
 ### More Info
 **I'm currently learning:**  JavaScript
@@ -29,4 +28,5 @@ I am a Systems Analysis and Development Student from Brazil focused on learning 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carrara1&theme=github_dark&hide_border&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
