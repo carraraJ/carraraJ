@@ -1,25 +1,23 @@
-## Hello! I am Joao Carrara
+## Hello! I am Joao Carrara ✨
 
 ---
 
-***Who am i?***   <img align="right" alt="Coding" width="400" src="assets/dog.gif"  height="299" width="302" style="border-radius:100px">
+***🤔Who am i?***   <img align="right" alt="Coding" width="400" src="assets/dog.gif"  height="299" width="302" style="border-radius:100px">
 
 I am a Systems Analysis and Development Student from Brazil focused on learning a diverse range of programming languages, frameworks, etc. My current focus is learning JavaScript and improving my HTML/CSS.
 
 
 ### More Info
-**I'm currently learning:**  JavaScript
+**🖥️I'm currently learning:**  JavaScript
 
-**Pronoums:** He/him
+**😊Pronoums:** He/him
 
-#### Other ways to reach me 
+#### 📞 Other ways to reach me 
 
-<a href="https://www.linkedin.com/in/queirozcarrara/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="João Carrara | LinkedIn" align="left" />
-</a> <a href="https://discord.com/users/260403711434555393/" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "  alt="Contact me on Discord!" align="left" />
-</a>
 
+ <a href="https://discord.com/users/260403711434555393/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joao.queirozcarrara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/queirozcarrara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br/>
 
 ---
