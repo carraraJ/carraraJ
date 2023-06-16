@@ -8,9 +8,9 @@ I am a Systems Analysis and Development Student from Brazil focused on learning 
 
 
 ### More Info
-**🖥️I'm currently learning:**  JavaScript
+**🖥️I'm currently learning:**  React
 
-**🔥Current project: Porfolio site** 
+**🔥Current project: Updating Porfolio site** 
 
 **😊Pronoums:** He/him
 
