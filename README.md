@@ -4,11 +4,11 @@
 
 ***🤔Who am i?***   <img align="right" alt="Coding" width="400" src="assets/dog.gif"  height="299" width="302" style="border-radius:100px">
 
-I am a Systems Analysis and Development Student from Brazil focused on learning a diverse range of programming languages, frameworks, etc. My current focus is learning JavaScript and improving my HTML/CSS.
+I am a Systems Analysis and Development Student from Brazil focused on learning a diverse range of programming languages, frameworks, etc. My current focus is learning Flutter and mobile development.
 
 
 ### More Info
-**🖥️I'm currently learning:**  React
+**🖥️I'm currently learning:**  Flutter
 
 **🔥Current project: Updating Porfolio site** 
 
