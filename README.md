@@ -8,7 +8,7 @@ I am a Systems Analysis and Development Student from Brazil focused on learning 
 
 
 ### More Info
-**🖥️I'm currently learning:**  Flutter
+**🖥️I'm currently learning:**  React Native
 
 **🔥Current project: Updating Porfolio site** 
 
