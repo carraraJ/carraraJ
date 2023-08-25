@@ -10,7 +10,7 @@ I am a Systems Analysis and Development Student from Brazil focused on learning 
 ### More Info
 **🖥️I'm currently learning:**  React 
 
-**🔥Current project: Updating Porfolio site** 
+**🔥Current project: Updating Porfolio site from Vanilla JS to React** 
 
 **😊Pronoums:** He/him
 
