@@ -8,6 +8,8 @@ I am a Systems Analysis and Development Student from Brazil focused on learning 
 
 
 ### More Info
+**🌐My new portfolio (WIP):** [ jcarrara.vercel.app](https://jcarrara.vercel.app/)
+
 **🖥️I'm currently learning:**  React 
 
 **🔥Current project: Updating Porfolio site from Vanilla JS to React** 
