@@ -10,7 +10,7 @@ I am a Systems Analysis and Development Student from Brazil focused on learning 
 ### More Info
 **🌐My new portfolio (WIP):**  [ jcarrara.netlify.app](https://jcarrara.netlify.app/)
 
-**🖥️I'm currently learning:**  React 
+**🖥️I'm currently learning:**  Go 
 
 **🔥Current project: Updating Porfolio site from Vanilla JS to React** 
 
