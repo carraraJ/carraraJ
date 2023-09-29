@@ -27,16 +27,30 @@ I am a Systems Analysis and Development Student from Brazil focused on learning 
 ---
 
 <div align="center">
-   <img height="30em" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img height="30em" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img height="30em" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img height="30em" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img height="30em" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+ <img height="30em" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+ <img height="30em" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+ <img height="30em" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+ <img height="30em" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) "/>
+ 
+ <img height="30em" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+ 
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Carrara1">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carrara1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carrara1&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/carrara1">
+  <picture >
+  <source height="160em"
+    srcset="https://github-readme-stats.vercel.app/api?username=carrara1&show_icons=true&theme=dark&hide=contribs"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source height="160em"
+    srcset="https://github-readme-stats.vercel.app/api?username=carrara1&show_icons=true&hide=contribs"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=carrara1&show_icons=true&hide=contribs" />
+</picture>
+   
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carrara1&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
 </div>
