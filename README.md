@@ -4,8 +4,8 @@
 
 ***🤔Who am i?***   <img align="right" alt="Coding" width="400" src="assets/dog.gif"  height="299" width="302" style="border-radius:100px">
 
-I am a Systems Analysis and Development Student from Brazil focused on learning a diverse range of programming languages, frameworks, etc. My current focus is learning ReactJS by finishing projects.
-
+Hello! I'm a full-stack developer who has just started his professional journey.
+I'm always looking for new challenges and at the moment I'm focused on improving my skills in different technologies, as well as becoming an increasingly capable professional.
 
 ### More Info
 **🌐My new portfolio (WIP):**  [ jcarrara.netlify.app](https://jcarrara.netlify.app/)
