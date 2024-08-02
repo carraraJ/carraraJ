@@ -12,7 +12,7 @@ I am a Systems Analysis and Development Student from Brazil focused on learning 
 
 **🖥️I'm currently learning:**  Go 
 
-**🔥Current project: Updating Porfolio site from Vanilla JS to React** 
+**🔥Current focus: Landing my first job!** 
 
 **😊Pronoums:** He/him
 
