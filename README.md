@@ -8,7 +8,7 @@ Hello! I'm a full-stack developer who has just started his professional journey.
 I'm always looking for new challenges and at the moment I'm focused on improving my skills in different technologies, as well as becoming an increasingly capable professional.
 
 ### More Info
-**🌐My portfolio: **  [ jcarrara.netlify.app](https://jcarrara.netlify.app/)
+**🌐My portfolio:**  [ jcarrara.netlify.app](https://jcarrara.netlify.app/)
 
 **🖥️I'm currently learning:**  Go 
 
