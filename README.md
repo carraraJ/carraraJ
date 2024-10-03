@@ -38,19 +38,3 @@ I'm always looking for new challenges and at the moment I'm focused on improving
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/carrara1">
-  <picture >
-  <source height="160em"
-    srcset="https://github-readme-stats.vercel.app/api?username=carrara1&show_icons=true&theme=dark&hide=contribs"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source height="160em"
-    srcset="https://github-readme-stats.vercel.app/api?username=carrara1&show_icons=true&hide=contribs"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=carrara1&show_icons=true&hide=contribs" />
-</picture>
-   
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carrara1&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
-</div>
